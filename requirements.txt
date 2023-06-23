@@ -1,0 +1,4 @@
+Flask==2.3.2
+flask_cors==3.0.10
+pyodbc==4.0.39
+waitress==2.1.2
