@@ -5,7 +5,7 @@ class Base_db:
     server = '127.0.0.1'
     database = 'SUEP'
     username = 'sa'
-    password = '629211wx'
+    password = 'password'
     conn_str = f'DRIVER={{ODBC Driver 18 for SQL Server}};TrustServerCertificate=yes;SERVER={server};DATABASE={database};UID={username};PWD={password}'
 
     def connect(self, autocommit=True):
