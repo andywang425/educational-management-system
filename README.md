@@ -42,7 +42,7 @@ git submodule init
 git submodule update
 ```
 
-前端部分安装依赖、运行具体方式请移步[vue-edu-management-sys](https://github.com/andywang425/vue-edu-management-sys)。
+前端部分安装依赖、运行的具体方式请移步[vue-edu-management-sys](https://github.com/andywang425/vue-edu-management-sys)。
 
 ## 可能出现的问题
 
