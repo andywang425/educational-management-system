@@ -1,0 +1,3 @@
+[submodule "vue-edu-management-sys"]
+	path = vue-edu-management-sys
+	url = https://github.com/andywang425/vue-edu-management-sys
